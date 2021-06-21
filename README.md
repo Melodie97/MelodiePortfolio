@@ -8,7 +8,7 @@ Data Science Portfolio
 
 ### Recommend low cost quality phones for Dataset
 * Objective was to recommend low cost quality phones for a company that wants to buy in bulk for sales team
-* For this project I found
+* For this project I found the median of prices, excluding outliers, and used low cost as prices < the median value
 
 ### Find Correlation between two columns
 * Found correlation between prices, RAM and ROM columns using .corr() method
