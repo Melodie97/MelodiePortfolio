@@ -1,7 +1,7 @@
 # Melodie_Portfolio
 Data Science Portfolio
 
-# [Project 1: Clean and Recommend Low Cost Quality Phones from Jumia Dataset](https://github.com/Melodie97/First-Data-Science-Projects)
+## [Project 1: Exploratory Data Analysis Using Jumia Dataset](https://github.com/Melodie97/First-Data-Science-Projects)
 * Obtained Jumia product specifications dataset
 * Explored Data: to learn about characteristics and potential problems of the data so as not to formulate assumptions
 * Cleaned Data: removed null values and irrelevant data
