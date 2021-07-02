@@ -10,6 +10,6 @@ Data Science Portfolio
 * Objective was to recommend low cost quality phones for a company that wants to buy in bulk for sales team
 * For this project I found the median of prices, excluding outliers, and used low cost as prices < the median value
 
-## [Project 2: Correlation in Pytho Using Jumia Dataset](https://github.com/Melodie97/First-Data-Science-Projects/blob/main/Data%20Specifications%20.ipynb)
+## [Project 2: Correlation in Python Using Jumia Dataset](https://github.com/Melodie97/First-Data-Science-Projects/blob/main/Data%20Specifications%20.ipynb)
 * Found correlation between prices, RAM and ROM columns using .corr() method
 * performed analysis to confirm correlation table 
